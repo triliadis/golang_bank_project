@@ -8,10 +8,11 @@ Database schema
 
 
 Tools used:
-  1. https://dbdiagram.io/ (generating image and postgres sql file)
-  2. docker 
-  3. postgres
-  4. tablePlus (visual helper for DB)
-  5. MIGRATE https://github.com/golang-migrate/migrate
-  6. SQLC https://sqlc.dev/
-  7. 
+  1. Generating image and postgres sql file - https://dbdiagram.io/
+  2. Docker 
+  3. Postgres
+  4. TablePlus (visual helper for DB)
+  5. MIGRATE - https://github.com/golang-migrate/migrate
+  6. SQLC - https://sqlc.dev/
+  7. A pure Go postgres driver for Go's database/sql package - github.com/lib/pq
+  8. Testify - github.com/stretchr/testify
